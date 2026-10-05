@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharpLearning.Basics;
 
 namespace CSharpLearning
 {
@@ -6,7 +7,7 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
-            HelloWorld.Run();
+            VariablesAndDataTypes.Run();
         }
     }
 }

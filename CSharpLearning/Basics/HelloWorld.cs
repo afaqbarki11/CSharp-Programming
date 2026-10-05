@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpLearning
+namespace CSharpLearning.Basics
 {
     internal class HelloWorld
     {
@@ -9,6 +9,8 @@ namespace CSharpLearning
             Console.WriteLine("Hello, World!");
             Console.WriteLine("My name is Afaq.");
             Console.WriteLine("I am learning C#.");
+            Console.WriteLine("I am excited to learn more about C# programming!");
+           
         }
     }
 }
