@@ -68,8 +68,15 @@ namespace CSharpLearning.Basics
             double d1 = 12E4D;
             Console.WriteLine(f1);
             Console.WriteLine(d1);
+            
+            // Booleans
+            bool iscsharpfun = true;
+            bool isfishtasty = false;
+            Console.WriteLine(iscsharpfun);  //Output True 
+            Console.WriteLine(isfishtasty);  //Output false 
 
-
+            
+            
         }
     }
 }

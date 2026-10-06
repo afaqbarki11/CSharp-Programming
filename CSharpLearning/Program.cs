@@ -7,7 +7,7 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
-            VariablesAndDataTypes.Run();
+            UserInput.Run();
         }
     }
 }
