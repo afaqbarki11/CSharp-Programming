@@ -7,7 +7,7 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
-            Operators.Run();
+            Strings.Run();
         }
     }
 }
