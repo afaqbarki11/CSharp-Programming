@@ -10,12 +10,12 @@ namespace CSharpLearning.Basics
     bool isfishtasty = false;
     Console.WriteLine(iscsharpfun); //output True
     Console.WriteLine(isfishtasty); //Output false
-
+//==========================================================
     int x = 9;
     int y = 13;
     Console.WriteLine(x>y);
     Console.WriteLine(x<y);
-
+//==========================================================
     // Real Life Example
 
     int myage = 23;
@@ -26,8 +26,10 @@ namespace CSharpLearning.Basics
             }
             else
             {
-                Console.WriteLine("not eligible for Vote!")
+                Console.WriteLine("not eligible for Vote!");
             }
+//===============================================================
+
 
 
 }
