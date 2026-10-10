@@ -1,5 +1,5 @@
 ﻿using System;
-using CSharpLearning.Basics;
+using CSharpLearning.IfElse;
 
 namespace CSharpLearning
 {
@@ -7,7 +7,7 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
-            Booleans.Run();
+            NumberChecker.Run();
         }
     }
 }
