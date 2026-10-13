@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Globalization;
-using System.Net.NetworkInformation;
-using System.Runtime.Intrinsics.X86;
-
 namespace CSharpLearning.Basics
 {
     internal class VariablesAndDataTypes
