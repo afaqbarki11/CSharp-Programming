@@ -5,7 +5,7 @@ namespace CSharpLearning.Basics
     {
         public static void Run()
         {
-            // Variables
+            // Variables And Data_Types
             string name = "Afaq Ahmad";
             int age = 23;
             age = 24;
