@@ -33,8 +33,6 @@ namespace CSharpLearning.IfElse
             {
                 Console.WriteLine("Grade A");
             }
-
-
         }
     }
         }
