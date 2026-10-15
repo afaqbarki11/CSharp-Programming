@@ -1,5 +1,5 @@
 ﻿using System;
-using CSharpLearning.IfElse;
+using CSharpLearning.SwitchCase;
 
 namespace CSharpLearning
 {
@@ -7,7 +7,7 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
-        SimpleCalculator.Run();
+        daysinweek.Run();
         }
     }
 }
